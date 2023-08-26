@@ -1,1 +1,2 @@
-This is my test file for git
+This is my test file for git
+This is for the purpose of testing my commit.
